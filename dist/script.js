@@ -1,0 +1,1 @@
+document.write("こんにちは，watasiwa沈佩岑desu ")
